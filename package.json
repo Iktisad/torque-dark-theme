@@ -17,11 +17,11 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/Torque-color-theme.json"
             }
-        ],
-        "repository": {
-            "type": "git",
-            "url": "https://github.com/Iktisad/torque-dark-theme.git"
-          }
-    }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Iktisad/torque-dark-theme.git"
+      }
     
 }
