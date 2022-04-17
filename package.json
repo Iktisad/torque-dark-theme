@@ -1,0 +1,21 @@
+{
+    "name": "torque-dark-theme",
+    "displayName": "torque-dark-theme",
+    "description": "A simple dark theme based on shades of green and turquoise.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Torque",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Torque-color-theme.json"
+            }
+        ]
+    }
+}
