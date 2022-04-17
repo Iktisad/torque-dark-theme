@@ -10,6 +10,11 @@ for better experience enable
 
 > for colored brackets: `"editor.bracketPairColorization.enabled": true`
 
+## how to install
+
+first run `vsce package`
+next run `code --install-extension torque-dark-theme-0.0.1.vsix`
+
 ### For more information
 
 -   [To fork dark theme you can access git repo](https://github.com/Iktisad/torque-dark-theme.git)
