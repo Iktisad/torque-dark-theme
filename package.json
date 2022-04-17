@@ -1,4 +1,5 @@
 {
+    "author": "Iktisad Rashid",
     "name": "torque-dark-theme",
     "displayName": "torque-dark-theme",
     "description": "A simple dark theme based on shades of green and turquoise.",
@@ -22,4 +23,5 @@
             "url": "https://github.com/Iktisad/torque-dark-theme.git"
           }
     }
+    
 }
