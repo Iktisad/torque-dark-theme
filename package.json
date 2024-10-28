@@ -3,8 +3,9 @@
     "name": "torque-dark-theme",
     "displayName": "torque-dark-theme",
     "description": "A simple dark theme based on shades of green and turquoise.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "IktisadRashid",
+    
     "keywords": [
         "vscode",
         "theme",
@@ -19,6 +20,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "public/imgs/turtlelogo.jpeg",
     "contributes": {
         "themes": [
             {
